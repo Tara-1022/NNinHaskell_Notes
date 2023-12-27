@@ -1,9 +1,8 @@
 Following [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/about.html), [Napkin NN](https://sirupsen.com/napkin/neural-net)
-Hoping to gain something from [Haskell Brain](https://crypto.stanford.edu/~blynn/haskell/brain.html) and [Haskell brain rewrite](http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/)
-(Maybe also [Functional Programming and Intelligent Algorithms](http://www.hg.schaathun.net/FPIA/week03se1.html) , [Effect of hidden layers](https://ieeexplore.ieee.org/document/9318195))
+
 Using a [test area](https://colab.research.google.com/drive/1vniPPgYnCg8fG-YuUfk9nM3dalejcls5?usp=sharing)
 
-[Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)is a good reference
+[Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)is a good reference but [Neural Network from Scratch | Mathematics & Python code](https://youtu.be/pauPCy_s0Ok?si=jbjNbyIgbHA7vtH1) is what saved my ass.
 
 A neural network is simply a function approximator. This function may be 'average' or 'is a cat'
 
@@ -252,3 +251,14 @@ Backpropagation lets us calculate the gradient without actually performing the c
 
 See
 - [My scratch area](https://colab.research.google.com/drive/1vniPPgYnCg8fG-YuUfk9nM3dalejcls5?usp=sharing)
+
+Future references
+- [Working with neural nets in Haskell](https://itecnote.com/tecnote/haskell-neural-networks-in-haskell-advice/)
+- [Efficacy of Haskell for AI](https://aitechbits.com/en/haskell-neural-network/#:~:text=Haskell%20has%20a%20steep%20learning%20curve%2C%20so%20it%20is%20not%20easy%20to%20read%20and%20maintain.%20So%20it%20makes%20it%20difficult%20to%20code%20a%20neural%20network%20in%20Haskell%2C%20even%20though%20it%20is%20an%20ideal%20programming%20language%20to%20code%20neural%20networks.)
+- [Neural Networks, types and functional programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+- [Something to come back to later - Deep learning from the first principles](https://penkovsky.com/neural-networks/)
+- [Functional Programming and Intelligent Algorithms](http://www.hg.schaathun.net/FPIA/week03se1.html)
+- [Haskell Brain](https://crypto.stanford.edu/~blynn/haskell/brain.html) and [Haskell brain rewrite](http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/)
+
+Other relevant stuff
+- [Effect of hidden layers](https://ieeexplore.ieee.org/document/9318195)

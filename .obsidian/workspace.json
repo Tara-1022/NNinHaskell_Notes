@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md",
+                "file": "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06d7dd49eca7b713",
+            "id": "8357a8a791db2841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Syntax sheet.md",
+                "file": "Mini project stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md",
+                "file": "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md",
+                "file": "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md"
+                "file": "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md"
               }
             }
           }
@@ -160,6 +160,21 @@
   },
   "active": "c18ab0374a65cfb5",
   "lastOpenFiles": [
+    "Mini project stuff.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md",
+    "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md",
+    "haskell-net.pdf",
+    "jannsub.pdf",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/IO.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Maybe the real learnings are the errors we make along the way.md",
+    "Neural Networks - Firing up my neurons (are you fed up of me yet)/NN - The basics but better.md",
+    "Neural Networks - Firing up my neurons (are you fed up of me yet)/HyperParams.md",
+    "Neural Networks - Firing up my neurons (are you fed up of me yet)/Handwritten digits.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Learning Haskell.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Haskell types.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Libraries.md",
+    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Syntax sheet.md",
+    "[[HyperParams]].md",
     "Neural Networks - Firing up my neurons (are you fed up of me yet)/NN - The basics.md",
     "NN-Haskell exercises/Neural_net_haskell/Tools.hs",
     "NN-Haskell exercises/Neural_net_haskell/Tools_2.hs",
@@ -169,22 +184,11 @@
     "NN-Haskell exercises/Neural_net_haskell/Activations.hs",
     "NN-Haskell exercises/Neural_net_haskell",
     "NN-Haskell exercises/Neural_Net_Interface.hs",
-    "Neural Networks - Firing up my neurons (are you fed up of me yet)/NN - The basics but better.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Syntax sheet.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Libraries.md",
     "[Libraries].md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Learning Haskell.md",
     "[[Lambda.md",
     "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Tricks.md",
-    "Neural Networks - Firing up my neurons (are you fed up of me yet)/Plan.md",
-    "NN-Haskell exercises/Errors.hs",
-    "NN-Haskell exercises/Activations.hs",
     "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Lambda calculus.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Maybe the real learnings are the errors we find along the way.md",
     "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Katas.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Haskell types.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Actually running things.md",
-    "Neural Networks - Firing up my neurons (are you fed up of me yet)/Handwritten digits.md",
     "Neural Networks - Firing up my neurons (are you fed up of me yet)/2-3-1_network_representation.jpg",
     "NN-Haskell.md",
     "'NN-Haskell.md",
@@ -192,10 +196,6 @@
     "Links.md",
     "[[Learning.md",
     "'Lambda.md",
-    "Lambda.md",
-    "Katas/02_currying.hs.md",
-    "Haskell - Whelming the Overwhelming (yes I know that's a bad title)/Katas/Quicksort.md",
-    "Handwritten F.md",
     "Untitled.canvas"
   ]
 }

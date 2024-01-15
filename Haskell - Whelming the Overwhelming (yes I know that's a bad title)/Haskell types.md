@@ -43,6 +43,40 @@ they are viewed as functions that 'build' values of the NewType type
 - the types have no intrinsic meaning to the system; we define functions to do so
 - can be recursive (see Peano integers, binary trees)
 - often used to create tree-like structures
+
+`Data.Maybe` is a useful data type. Functions include
+- isNothing
+- isJust
+- fromJust
+- fromMaybe <\def>
+Another mildly useful one is [[IO]].
+# Records
+
+```
+data <Name> = <Name> { <attr1> :: <Type>,
+					   <attr 2> :: <Type>, ...}
+```
+
+automatically generates functions to extract the values of a record
+
+` attr1 :: <Name> -> <Type1>`
+
+though you could use pattern matching like in regular data
+`f (<Name> my_attr _ ) = f' my_attr`
+
+# Typeclasses
+
+Type constraints like 'Num', 'Ord', 'Eq' allow functions to be polymorphic to instances of the given Typeclass. A type must be an instance of the TypeClass.
+
+Type constraints propagate through all functions using the constrained one.
+
+`:info TypeClass` to glance at functions defined on a typeclass.
+`MINIMAL` lists the minimal functions a type must define to be part of a TypeClass.
+
+`class A a => B a` is similar to 'B inherits from A'
+
+`deriving` puts the work of defining how instances work on Haskell, not us. if derivi ng Eq, only structural equivalence is considered.
 # References
 
 - [Graham Hutton (again)](https://www.youtube.com/watch?v=sYgvpTyFpZ4&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=12)
+- [Haskell for Imperative Programmers](https://www.youtube.com/watch?v=CoNZRKqQi1o&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=12)

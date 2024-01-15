@@ -158,6 +158,7 @@ see list patterns
 - map
 - zipWith - f list1 list2 => i f j for all i of list1, j of list2
 - foldr - f z xs => applies f as (f... (f (f z x1) x2) ... xn)
+- flip - takes a function, returns a function that has order or params flipped
 
 Useful functions to know: `map`, `zipWith`, `filter`, `foldr`/`foldl`/`foldMap`, `traverse`, `takeWhile`/`dropWhile`, `scanr`/`scanl`, `mapAccumL`/`mapAccumR`, `init`
 ### List

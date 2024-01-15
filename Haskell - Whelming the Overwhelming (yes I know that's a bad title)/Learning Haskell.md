@@ -34,7 +34,7 @@ Easier to capture the essence of algorithms
 - make sure the type signature compiles before actually writing a function; define how you'll use it (Bonus: the compiler checks if you follow it)
 - always include relevant class constraints
 - know how you'll test before you implement
-- keep track of [errors](Maybe%20the%20real%20learnings%20are%20the%20errors%20we%20find%20along%20the%20way.md)
+- keep track of [errors](Maybe%20the%20real%20learnings%20are%20the%20errors%20we%20make%20along%20the%20way.md)
 - functions are all usually recursive. write the base case first
 - add library expressions to the .cabal file; then import to make sure it's the right dependency
 # First steps
